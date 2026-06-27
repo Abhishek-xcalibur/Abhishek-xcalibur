@@ -72,19 +72,6 @@ Mindset    : Learning by building, exploring by curiosity
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-xcalibur&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-xcaliburE&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
